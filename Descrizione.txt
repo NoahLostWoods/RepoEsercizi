@@ -1,0 +1,2 @@
+Questa è la descrizione della Repository di Esercizi per Engineering.
+Linguaggio di programmazione utilizzato è Java SE 8.
